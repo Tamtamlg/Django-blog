@@ -121,3 +121,4 @@ postgres
 /backend/settings/local.py
 backend/Makefile
 vetur.config.js
+media
